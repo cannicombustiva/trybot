@@ -1,0 +1,22 @@
+{
+  "name": "trybot",
+  "version": "1.0.0",
+  "description": "testing bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cannicombustiva/trybot.git"
+  },
+  "author": "cannicombustiva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cannicombustiva/trybot/issues"
+  },
+  "homepage": "https://github.com/cannicombustiva/trybot#readme",
+  "dependencies": {
+    "botbuilder": "^3.4.4"
+  }
+}
