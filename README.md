@@ -7,6 +7,7 @@ things thanks to Google and a friend of mine.
 So...let's start
 
 ##CREATE A  NEW PROJECT
+
 *Add a newfolder called 'trybot' in my PC.
 *I open GitHub and create a new project.
 *I called my new repository 'trybot', adding a description and I picked on
