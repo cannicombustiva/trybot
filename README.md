@@ -8,8 +8,8 @@ So...let's start
 
 ##CREATE A  NEW PROJECT
 
-*Add a newfolder called 'trybot' in my PC.
-*I open GitHub and create a new project.
-*I called my new repository 'trybot', adding a description and I picked on
+-Add a newfolder called 'trybot' in my PC.
+-I open GitHub and create a new project.
+-I called my new repository 'trybot', adding a description and I picked on
  'public' button.
-*I create a new repository.
+-I create a new repository.
