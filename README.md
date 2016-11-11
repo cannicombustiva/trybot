@@ -12,4 +12,4 @@ So...let's start
 -I open GitHub and create a new project.
 -I called my new repository 'trybot', adding a description and I picked on
  'public' button.
--I create a new repository.
+-I create a new repository. 
